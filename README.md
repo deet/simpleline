@@ -1,4 +1,4 @@
-# simpleline
+# simpleline <a href="https://godoc.org/github.com/deet/simpleline"><img src="https://godoc.org/github.com/deet/simpleline?status.svg" alt="GoDoc"></a>
 
 Simpleline simplifies N dimensional lines using the Ramer–Douglas–Peucker algorithm.
 
